@@ -1,0 +1,11 @@
+Experiencia 4
+Informe previo -> Sí
+Encuesta -> No
+Informe final -> No
+Examenes -> No
+
+Experiencia 5
+Informe previo -> Sí
+Encuesta -> Si
+Informe final -> Sí
+Examenes -> No
